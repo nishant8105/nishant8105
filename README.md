@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML and Data science**
 
-- 💬 Ask me about **Python, HTML, Css ,JS**
+- 💬 Ask me about **Python, Numpy, Pandas, Seaborn **
 
 - 📫 How to reach me **nishantjadhav8105@gmail.com** , **8483059710**
 
